@@ -20,7 +20,13 @@ h1 {
 }
 
 .prince-symbol {
-    font-size: 2em;
+    display: flex;
+    align-items: center;
+}
+
+.prince-symbol img {
+    width: 40px;
+    height: 40px;
 }
 
 main {
